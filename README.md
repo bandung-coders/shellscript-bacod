@@ -12,7 +12,7 @@ This repository is for create a shellscript automation, but before we talk about
 
 am i right?, oke with CI CD you can do that step automaticaly by system, you can use many third party for CI CD, you can use Jenkins, Circle CI, GIthub Action, and the other tools
 
-but, the problem is CI CD work for VPS. or in the other words "CI CD work if you have controll to the system"
+but, the problem is CI CD work for VPS.
 
 you can't implement CI CD on Web Host or Shared Host, soo i create this idea how if i put the flow for deploying in Shellscript?, that's like CI CD right?
 i just write the right syntaks and the right way to deploy in the shellscript file. so when i want to deploy new version in my app i just open the ssh then run the shellscript file, you just need 3 step ( maybe less )
